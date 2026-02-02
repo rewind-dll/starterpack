@@ -189,4 +189,6 @@ This project is licensed under the **GPL License**.
 * UI built using **React + TypeScript + TailwindCSS**
 * Compatible with **ESX Framework**
 
+## 📷 Screensots
+<img width="2211" height="1201" alt="Image" src="https://github.com/user-attachments/assets/ecb0e944-7e00-4fb8-b7af-42c6fc3b42a3" />
 
