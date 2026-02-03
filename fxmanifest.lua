@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Your Name'
+author 'rewind.dll'
 description 'Starter Pack System with Discord Booster Integration'
 version '1.0.0'
 
