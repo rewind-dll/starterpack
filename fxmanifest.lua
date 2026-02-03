@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'rewind.dll'
 description 'Starter Pack System with Discord Booster Integration'
-version '1.0.0'
+version '1.1.0'
 
 shared_scripts {
     '@es_extended/imports.lua',
