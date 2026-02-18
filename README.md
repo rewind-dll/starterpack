@@ -3,7 +3,7 @@
 A configurable **ESX starter pack system for FiveM** with Discord booster integration and a modern UI.
 
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
-![Version](https://img.shields.io/badge/version-1.1.0-green.svg)
+![Version](https://img.shields.io/badge/version-1.2.0-green.svg)
 
 ## ✨ Features
 
